@@ -1,13 +1,14 @@
 ### Hi there 👋
 <h2 align="center">Bio</h2>
-| Key      | Value                |
-|----------|----------------------|
-|  From    | Ukraine ~ Zhytomyr   |
-|  Age     |         22           |
-| Language |      RU,UA,EN        |
-From: 
-Age : 22
+
+| Key      | Value                       |
+|----------|-----------------------------|
+|  From    |50.2649 ~ 28.6767   |
+|  Age     |         10110               |
+| Language |      🇷🇺  🇺🇦  🇬🇧             |
+
 <h4 align="center">Professional bio</h2>
+
 - `01.02.2020` - start developer way
 
 - `25.02.2020` - finished first landing page
