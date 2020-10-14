@@ -1,7 +1,5 @@
-### Work in progress 👋
 
-
-![banner](https://raw.githubusercontent.com/v-excelsior/v-excelsior/main/assets/banner.png)
+<img align="center" src="https://raw.githubusercontent.com/v-excelsior/v-excelsior/main/assets/banner.png" alt="Reacme banner">
 
 <details>
   <summary align="center"><b>Bio</b>:</summary>
@@ -111,5 +109,5 @@
 
 <p align="center">
  <img src="https://visitor-badge.glitch.me/badge?page_id=v-excelsior.v-excelsior/" alt="Visitors counter badge">
-</div>
+</p>
 
