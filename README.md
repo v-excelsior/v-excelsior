@@ -1,6 +1,11 @@
 ### Work in progress 👋
+
+
+![banner](https://raw.githubusercontent.com/v-excelsior/v-excelsior/main/assets/banner.png)
+
+
 <h2 align="center">Bio</h2>
-<img src="assets/banner.png" width="35px" alt="Banner"/>
+
 | Key         | Value                       |
 |-------------|-----------------------------|
 |  From       |     50.2649 ~ 28.6767       |
@@ -9,24 +14,17 @@
 | Profession  |  Junior JS Developer        |
 | Goal 2020   |  10 stars on my projects    |
 
-<details open align="center">
-  <summary><b>Professional bio</b>:</summary>
+
+<details>
+  <summary align="center"><b>Professional bio</b>:</summary>
   <br>
   
-- `01.02.2020` - start developer way
-
-- `25.02.2020` - finished first landing page
-
-- `25.02.2020` - finished first landing page
-
-- `27.04.2020` - start my first app with Vue
-
-- `20.07.2020` - start my first app with React
-
-- `01.08.2020` - find my first work as Junior JS Developer at @Backendless
-
-- `09.10.2020` - create first NPM package
-
+- 🏁`01.02.2020` - start developer way
+- 📄`25.02.2020` - finished first landing page
+- 💚`27.04.2020` - start my first app with Vue
+- 💙`20.07.2020` - start my first app with React
+- 🚀`01.08.2020` - find my first work as Junior JS Developer at [Backendless](https://backendless.com/) 
+- ⏱️`09.10.2020` - create first NPM package
 </details>
 
 
