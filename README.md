@@ -3,9 +3,10 @@
 
 ![banner](https://raw.githubusercontent.com/v-excelsior/v-excelsior/main/assets/banner.png)
 
-
-<h2 align="center">Bio</h2>
-
+<details>
+  <summary align="center"><b>Bio</b>:</summary>
+  <br>
+  
 | Key         | Value                       |
 |-------------|-----------------------------|
 |  From       |     50.2649 ~ 28.6767       |
@@ -14,6 +15,7 @@
 | Profession  |  Junior JS Developer        |
 | Goal 2020   |  10 stars on my projects    |
 
+</details>
 
 <details>
   <summary align="center"><b>Professional bio</b>:</summary>
@@ -30,52 +32,33 @@
 
 <img src="https://www.codewars.com/users/Sicely/badges/large"/> 
 
-![visitors](httpsvisitor-badge.laobi.icu/badge?page_id=v-excelsior.v-excelsior) 
 
 
-<details open align="center">
-  <summary><b>Github Stats</b>:</summary>
-  <br>
-  <p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=v-excelsior&show_icons=true&theme=tokyonight&line_height=27"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=v-excelsior&hide=scss,html&theme=tokyonight"></p>
-</details>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=tokyonight" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-excelsior&hide_title=true&hide_border=true&layout=compact&theme=tokyonight"/>
 
-<details open align="center">
-  <summary><b>Links</b>:</summary>
-  <br>
-  <p align="center">
-   <a href="t.me/v_excelsior" target="_blank" aria-label="Dima's Telegram">
-    <img src="assets/telegram.svg" width="35px" alt="Dima's telegram"/>
-   </a>
-   &nbsp;&nbsp;
-   <a href="mailto:vakyla98@gmail.com" target="_blank" aria-label="Dima's mailto">
-    <img src="assets/gmail.svg" width="35px" alt="Dima's mailto"/>
-   </a>
-   &nbsp;&nbsp;
-   <a href="https://www.instagram.com/v_excelsior/" target="_blank" aria-label="Dima's Instagram">
-    <img src="assets/instagram.svg" width="35px" alt="Dima's Instagram"/>
-   </a>
-   &nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/dmytro-vakuliuk-3971451a6/" target="_blank" aria-label="Dima's LinkedIn">
-    <img src="assets/linkedin.svg" width="35px" alt="Dima's LinkedIn"/>
-   </a>
-   &nbsp;&nbsp;
-   <a href="https://stackoverflow.com/users/13216414/dima-vak/" target="_blank" aria-label="Dima's SO">
-    <img src="assets/stackoverflow.svg" width="35px" alt="Dima's SO"/>
-   </a>
- </p>
-</details>
+<p align="center">
+ <a href="t.me/v_excelsior" target="_blank" aria-label="Dima's Telegram">
+  <img src="assets/telegram.svg" width="35px" alt="Dima's telegram"/>
+ </a>
+ &nbsp;&nbsp;
+ <a href="mailto:vakyla98@gmail.com" target="_blank" aria-label="Dima's mailto">
+  <img src="assets/gmail.svg" width="35px" alt="Dima's mailto"/>
+ </a>
+ &nbsp;&nbsp;
+ <a href="https://www.instagram.com/v_excelsior/" target="_blank" aria-label="Dima's Instagram">
+  <img src="assets/instagram.svg" width="35px" alt="Dima's Instagram"/>
+ </a>
+ &nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/dmytro-vakuliuk-3971451a6/" target="_blank" aria-label="Dima's LinkedIn">
+  <img src="assets/linkedin.svg" width="35px" alt="Dima's LinkedIn"/>
+ </a>
+ &nbsp;&nbsp;
+ <a href="https://stackoverflow.com/users/13216414/dima-vak/" target="_blank" aria-label="Dima's SO">
+  <img src="assets/stackoverflow.svg" width="35px" alt="Dima's SO"/>
+ </a>
+</p>
 
-<!--
-**v-excelsior/v-excelsior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ <img src="httpsvisitor-badge.laobi.icu/badge?page_id=v-excelsior.v-excelsior" alt="visitors barge"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
