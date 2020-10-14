@@ -1,11 +1,14 @@
-### Hi there 👋
+### Work in progress 👋
 <h2 align="center">Bio</h2>
 
-| Key      | Value                       |
-|----------|-----------------------------|
-|  From    |     50.2649 ~ 28.6767       |
-|  Age     |           10110             |
-| Language |        🇷🇺  🇺🇦  🇬🇧           |
+| Key         | Value                       |
+|-------------|-----------------------------|
+|  From       |     50.2649 ~ 28.6767       |
+|  Age        |           10110             |
+| Language    |        🇷🇺  🇺🇦  🇬🇧           |
+| Profession  |  Junior JS Developer        |
+| Goal 2020   |  10 stars on my projects    |
+
 
 <h4 align="center">Professional bio</h2>
 
@@ -27,7 +30,12 @@
 
 ![visitors](httpsvisitor-badge.laobi.icu/badge?page_id=v-excelsior.v-excelsior) 
 
-<a href="https://www.linkedin.com/in/dmytro-vakuliuk-3971451a6/"><img src="assets/linkedin.svg"/></a>
+
+<a href="t.me/v_excelsior" target="_blank" aria-label="Dima's Telegram"><img src="assets/telegram.svg" align="right" width="35px" alt="Dima's telegram"/></a>
+<a href="mailto:vakyla98@gmail.com" target="_blank" aria-label="Dima's mailto"><img src="assets/gmail.svg" align="right" width="35px" alt="Dima's mailto"/></a>
+<a href="https://www.instagram.com/v_excelsior/" target="_blank" aria-label="Dima's Instagram"><img src="assets/instagram.svg" align="right" width="35px" alt="Dima's Instagram"/></a>
+<a href="https://www.linkedin.com/in/dmytro-vakuliuk-3971451a6/" target="_blank" aria-label="Dima's LinkedIn"><img src="assets/linkedin.svg" align="right" width="35px" alt="Dima's LinkedIn"/></a>
+<a href="https://stackoverflow.com/users/13216414/dima-vak/" target="_blank" aria-label="Dima's SO"><img src="assets/stackoverflow.svg" align="right" width="35px" alt="Dima's SO"/></a>
 <!--
 **v-excelsior/v-excelsior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
