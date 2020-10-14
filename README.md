@@ -8,13 +8,14 @@
   <br>
   <div align="center">
     
-| Key         | Value                       |
-|-------------|-----------------------------|
-|  From       |     50.2649 ~ 28.6767       |
-|  Age        |           10110             |
-| Language    |        🇷🇺  🇺🇦  🇬🇧           |
-| Profession  |  Junior JS Developer        |
-| Goal 2020   |  10 stars on my projects    |
+|     Key      |           Value           |
+|--------------|---------------------------|
+| From         |     50.2649 ~ 28.6767     |
+| Age          |           10110           |
+| Language     |        🇷🇺  🇺🇦  🇬🇧         |
+| Profession   |    Junior JS Developer    |
+| Goal October |    Octoberfest T-Shirt    |
+| Goal 2020    |  10 stars on my projects  |
 
  </div>
 </details>
@@ -22,14 +23,22 @@
 <details>
   <summary align="center"><b>Professional bio</b>:</summary>
   <br>
-  
-- 🏁`01.02.2020` - start developer way
-- 📄`25.02.2020` - finished first landing page
-- 💚`27.04.2020` - start my first app with Vue
-- 💙`20.07.2020` - start my first app with React
-- 🚀`01.08.2020` - find my first work as Junior JS Developer at [Backendless](https://backendless.com/) 
-- ⏱️`09.10.2020` - create first NPM package
-- ⭐`14.10.2020` - create awesome README.md
+  <div align="center">
+    
+🏁`01.02.2020` - start developer way
+
+📄`25.02.2020` - finished first landing page
+
+💚`27.04.2020` - start my first app with Vue
+
+💙`20.07.2020` - start my first app with React
+
+🚀`01.08.2020` - find my first work as Junior JS Developer at [Backendless](https://backendless.com/) 
+
+⏱️`09.10.2020` - create first NPM package
+
+⭐`14.10.2020` - create awesome README.md
+  </div>
 </details>
 
 <details>
@@ -49,11 +58,17 @@
    <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
   </div>
   
+  <br>
+  
   <p align="center"><b>Also</b>: Jest,LESS, Pug, GULP, BEM, Vue eco-system</p>
+  
+  <br>
   
   <div align="center">
    <img src="https://www.codewars.com/users/Sicely/badges/large"/>
   </div>
+  
+  <br>
   
   <p align="center"><b>Books</b>: 
    <a href="https://git-scm.com/book/en/v2" aria-label="Book Pro Git Link">Pro Git</a>,
@@ -95,6 +110,6 @@
 </p>
 
 <p align="center">
- <img src="https://visitor-badge.glitch.me/badge?page_id=v-excelsior.v-excelsior/ alt="Visitors counter badge">
+ <img src="https://visitor-badge.glitch.me/badge?page_id=v-excelsior.v-excelsior/" alt="Visitors counter badge">
 </div>
 
