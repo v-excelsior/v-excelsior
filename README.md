@@ -1,6 +1,6 @@
 ### Work in progress 👋
 <h2 align="center">Bio</h2>
-
+<img src="assets/banner.png" width="35px" alt="Banner"/>
 | Key         | Value                       |
 |-------------|-----------------------------|
 |  From       |     50.2649 ~ 28.6767       |
@@ -9,9 +9,10 @@
 | Profession  |  Junior JS Developer        |
 | Goal 2020   |  10 stars on my projects    |
 
-
-<h4 align="center">Professional bio</h2>
-
+<details open align="center">
+  <summary><b>Professional bio</b>:</summary>
+  <br>
+  
 - `01.02.2020` - start developer way
 
 - `25.02.2020` - finished first landing page
@@ -25,6 +26,9 @@
 - `01.08.2020` - find my first work as Junior JS Developer at @Backendless
 
 - `09.10.2020` - create first NPM package
+
+</details>
+
 
 <img src="https://www.codewars.com/users/Sicely/badges/large"/> 
 
