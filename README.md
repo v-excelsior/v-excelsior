@@ -23,19 +23,19 @@
   <br>
   <div align="center">
     
-🏁`01.02.2020` - start developer way
+🏁`01.02.2020` - started developer way
 
 📄`25.02.2020` - finished first landing page
 
-💚`27.04.2020` - start my first app with Vue
+💚`27.04.2020` - started my first app with Vue
 
-💙`20.07.2020` - start my first app with React
+💙`20.07.2020` - started my first app with React
 
-🚀`01.08.2020` - find my first work as Junior JS Developer at [Backendless](https://backendless.com/) 
+🚀`01.08.2020` - found my first work as Junior JS Developer at [Backendless](https://backendless.com/) 
 
-⏱️`09.10.2020` - create first NPM package
+⏱️`09.10.2020` - created first NPM package
 
-⭐`14.10.2020` - create awesome README.md
+⭐`14.10.2020` - created awesome README.md
   </div>
 </details>
 
