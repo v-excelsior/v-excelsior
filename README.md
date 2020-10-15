@@ -84,27 +84,32 @@
 
 <p align="center">
  <a href="t.me/v_excelsior" target="_blank" aria-label="Dima's Telegram">
-  <img src="assets/telegram.svg" width="35px" alt="Dima's telegram"/>
+  <img src="https://raw.githubusercontent.com/v-excelsior/v-excelsior/36a7ea13a1c938bd7b300d923d9a0bc405565391/assets/telegram.svg" width="35px" alt="Dima's telegram"/>
  </a>
  &nbsp;&nbsp;
  <a href="mailto:vakyla98@gmail.com" target="_blank" aria-label="Dima's mailto">
-  <img src="assets/gmail.svg" width="35px" alt="Dima's mailto"/>
+  <img src="https://raw.githubusercontent.com/v-excelsior/v-excelsior/36a7ea13a1c938bd7b300d923d9a0bc405565391/assets/gmail.svg" width="35px" alt="Dima's mailto"/>
  </a>
  &nbsp;&nbsp;
  <a href="https://www.instagram.com/v_excelsior/" target="_blank" aria-label="Dima's Instagram">
-  <img src="assets/instagram.svg" width="35px" alt="Dima's Instagram"/>
+  <img src="https://raw.githubusercontent.com/v-excelsior/v-excelsior/36a7ea13a1c938bd7b300d923d9a0bc405565391/assets/instagram.svg" width="35px" alt="Dima's Instagram"/>
  </a>
  &nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/dmytro-vakuliuk-3971451a6/" target="_blank" aria-label="Dima's LinkedIn">
-  <img src="assets/linkedin.svg" width="35px" alt="Dima's LinkedIn"/>
+  <img src="https://raw.githubusercontent.com/v-excelsior/v-excelsior/36a7ea13a1c938bd7b300d923d9a0bc405565391/assets/linkedin.svg" width="35px" alt="Dima's LinkedIn"/>
  </a>
  &nbsp;&nbsp;
  <a href="https://stackoverflow.com/users/13216414/dima-vak/" target="_blank" aria-label="Dima's SO">
-  <img src="assets/stackoverflow.svg" width="35px" alt="Dima's SO"/>
+  <img src="https://raw.githubusercontent.com/v-excelsior/v-excelsior/36a7ea13a1c938bd7b300d923d9a0bc405565391/assets/stackoverflow.svg" width="35px" alt="Dima's SO"/>
  </a>
   <a href="https://www.codewars.com/users/Sicely" target="_blank" aria-label="Dima's CodeWars">
-   <img src="assets/codewars.svg" width="35px" alt="Dima's CodeWars"/>
+   <img src="https://raw.githubusercontent.com/v-excelsior/v-excelsior/36a7ea13a1c938bd7b300d923d9a0bc405565391/assets/codewars.svg" width="35px" alt="Dima's CodeWars"/>
   </a>
+  </a>
+  <a href="https://github.com/v-excelsior" target="_blank" aria-label="Dima's Github">
+   <img src="https://raw.githubusercontent.com/v-excelsior/v-excelsior/36a7ea13a1c938bd7b300d923d9a0bc405565391/assets/github.svg" width="35px" alt="Dima's Github"/>
+  </a>
+  
 </p>
 
 <p align="center">
