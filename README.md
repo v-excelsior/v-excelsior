@@ -83,7 +83,7 @@
 </p>
 
 <p align="center">
- <a href="t.me/v_excelsior" target="_blank" aria-label="Dima's Telegram">
+ <a href="https://t.me/v_excelsior" target="_blank" aria-label="Dima's Telegram">
   <img src="https://raw.githubusercontent.com/v-excelsior/v-excelsior/36a7ea13a1c938bd7b300d923d9a0bc405565391/assets/telegram.svg" width="35px" alt="Dima's telegram"/>
  </a>
  &nbsp;&nbsp;
