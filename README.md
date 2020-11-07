@@ -6,14 +6,14 @@
   <br>
   <div align="center">
     
-|     Key      |           Value           |
-|-------------:|:--------------------------|
-| From         |     50.2649 ~ 28.6767     |
-| Age          |           10110           |
-| Language     |        🇷🇺  🇺🇦  🇬🇧         |
-| Profession   |    Junior JS Developer    |
-| Goal October |    Octoberfest T-Shirt    |
-| Goal 2020    |  10 stars on my projects  |
+|     Key      |           Value             |
+|-------------:|:----------------------------|
+| From         |     50.2649 ~ 28.6767       |
+| Age          |           10110             |
+| Language     |        🇷🇺  🇺🇦  🇬🇧           |
+| Profession   |    Junior JS Developer      |
+| Goal November|Finish storefront pet project|
+| Goal 2020    |  10 stars on my projects    |
 
  </div>
 </details>
