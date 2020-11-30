@@ -12,7 +12,7 @@
 | Age          |           10110             |
 | Language     |        🇷🇺  🇺🇦  🇬🇧           |
 | Profession   |    Junior JS Developer      |
-| Goal November|Finish storefront pet project|
+| Goal December| Finish 100 catas at Codewars|
 | Goal 2020    |  10 stars on my projects    |
 
  </div>
