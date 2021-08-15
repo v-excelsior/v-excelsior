@@ -8,10 +8,9 @@
     
 |     Key      |           Value             |
 |-------------:|:----------------------------|
-| From         |     50.2649 ~ 28.6767       |
-| Age          |           10110             |
-| Language     |        🇷🇺  🇺🇦  🇬🇧           |
-| Profession   |    Junior JS Developer      |
+| Age          |             23              |
+| From         |           Ukraine           |
+| Profession   |        JS Developer         |
 
 
  </div>
