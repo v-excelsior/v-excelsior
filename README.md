@@ -34,6 +34,8 @@
 ⏱️`09.10.2020` - created first NPM package
 
 ⭐`14.10.2020` - created awesome README.md
+    
+🐳`12.09.2021` - create first Docker container
   </div>
 </details>
 
