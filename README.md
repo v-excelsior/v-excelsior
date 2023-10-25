@@ -8,7 +8,7 @@
     
 |     Key      |           Value             |
 |-------------:|:----------------------------|
-| Age          |             24              |
+| Age          |             25              |
 | From         |           Ukraine           |
 | Profession   |        JS Developer         |
 
@@ -35,7 +35,9 @@
 
 ⭐`14.10.2020` - created awesome README.md
     
-🐳`12.09.2021` - create first Docker container
+🐳`12.09.2021` - created first Docker container
+
+🤡`Start of 2022` - stopped maintaining this bullshit.
   </div>
 </details>
 
