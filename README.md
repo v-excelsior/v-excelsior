@@ -111,10 +111,4 @@
   <a href="https://github.com/v-excelsior" target="_blank" aria-label="Dima's Github">
    <img src="https://raw.githubusercontent.com/v-excelsior/v-excelsior/36a7ea13a1c938bd7b300d923d9a0bc405565391/assets/github.svg" width="35px" alt="Dima's Github"/>
   </a>
-  
 </p>
-
-<p align="center">
- <img src="https://visitor-badge.glitch.me/badge?page_id=v-excelsior.v-excelsior/" alt="Visitors counter badge">
-</p>
-
