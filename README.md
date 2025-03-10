@@ -8,7 +8,7 @@
     
 |     Key      |           Value             |
 |-------------:|:----------------------------|
-| Age          |             25              |
+| Age          |             26              |
 | From         |           Ukraine           |
 | Profession   |        JS Developer         |
 
