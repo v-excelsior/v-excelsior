@@ -18,4 +18,5 @@ do
     echo "Change $i at $(date)" >> $FILE
     git add $FILE
     git commit -m "Automated commit #$i"
+    git push
 done
