@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Make sure you're in your repo root directory
-# This will create a dummy file and change it 10 times
+# This will create a dummy file and change it N times (10–20 commits)
 
 FILE="dummy.txt"
 
@@ -12,11 +12,17 @@ if [ ! -f "$FILE" ]; then
     git commit -m "Initial commit for dummy file"
 fi
 
-# Do 10 commits
-for i in {1..10}
-do
+# Pick random number of commits between 10 and 20
+COMMITS=$(( RANDOM % 11 + 10 ))
+
+echo "Making $COMMITS commits..."
+
+# Do commits
+for ((i=1; i<=COMMITS; i++)); do
     echo "Change $i at $(date)" >> $FILE
     git add $FILE
     git commit -m "Automated commit #$i"
-    git push
 done
+
+# Push to remote
+git push
